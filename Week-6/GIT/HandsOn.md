@@ -22,7 +22,7 @@ Here is how we can ignore `.log` files and `log` folders in Git:
    ```bash
    git status
    ```
-   You will notice that `test.log` and the `log` folder are not listed under untracked files. Only the `.gitignore` file will be shown as an untracked file ready to be added, proving that our ignore rules are working correctly for the working directory and local repository.
+   You will notice that `test.log` and the `log` folder are not listed under untracked files. Only the `.gitignore` file will be shown as an untracked file ready to be added, proving that our ignore rules are working correctly for the working directory and local repository..
 
 ## 3. Git-HOL
 
